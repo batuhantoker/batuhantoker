@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tokerbatuhan
+- 👋 Hi, I’m Batuhan Toker
 - 👀 I’m interested in robotics and artificial intelligence
 - 🌱 I’m currently learning gihub :)
 - 💞️ I’m looking to collaborate on haptic interaction and neural networks
