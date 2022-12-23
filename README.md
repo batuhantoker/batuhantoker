@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Batuhan Toker
-- 👀 I’m interested in robotics and artificial intelligence
-- 🌱 I’m currently learning gihub :)
-- 💞️ I’m looking to collaborate on haptic interaction and neural networks
-- 📫 How to reach me is so easy to figure out
+Hi, I’m Batuhan Toker
+- interested in robotics and artificial intelligence
+- currently learning gihub and HTML :)
+- looking forward to collaborate on haptic interaction and neural networks
+- find options to contact me on tokerbatuhan.github.io 
 
 <!---
 tokerbatuhan/tokerbatuhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
