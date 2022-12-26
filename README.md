@@ -2,7 +2,7 @@
 
 Hi, I’m Batuhan Toker. I use this website to make most of my work open-source. I'm
 - interested in robotics and artificial intelligence
-- currently learning gihub and HTML :)
+- currently learning gihub, HTML, CSS and JS :)
 - looking forward to collaborate on haptic interaction and neural networks
 - find options to contact me on https://batuhantoker.github.io 
 
