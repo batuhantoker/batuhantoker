@@ -5,7 +5,7 @@ Hi, I’m Batuhan Toker. I use this website to make most of my work open-source.
 - currently learning gihub, HTML, CSS and JS :)
 - looking forward to collaborate on haptic interaction and neural networks
 - find options to contact me on https://batuhantoker.github.io 
-```ruby
+```c
 cd human/imagination
 prompt: future
 ```
