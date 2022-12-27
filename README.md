@@ -7,7 +7,7 @@ Hi, I’m Batuhan Toker. I use this website to make most of my work open-source.
 - find options to contact me on https://batuhantoker.github.io 
 ```c
 cd human/imagination
-prompt: future
+run future
 ```
 <!-- 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhantoker)
