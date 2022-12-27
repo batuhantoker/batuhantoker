@@ -5,7 +5,10 @@ Hi, I’m Batuhan Toker. I use this website to make most of my work open-source.
 - currently learning gihub, HTML, CSS and JS :)
 - looking forward to collaborate on haptic interaction and neural networks
 - find options to contact me on https://batuhantoker.github.io 
-
+```python
+cd human/imagination
+prompt: future
+```
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhantoker)
 ![alt text](https://github-readme-streak-stats.herokuapp.com/?user=batuhantoker)
 ![alt text](https://github-profile-trophy.vercel.app/?username=batuhantoker) 
