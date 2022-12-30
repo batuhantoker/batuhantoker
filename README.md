@@ -2,12 +2,13 @@
 
 Hi, I’m Batuhan Toker. I use this website to make most of my work open-source. I'm
 - interested in robotics and artificial intelligence
-- currently learning gihub, HTML, CSS and JS :)
+- currently learning how to report science for everyone
 - looking forward to collaborate on haptic interaction and neural networks
 ```c++
 cd human/imagination
 run future
 ```
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhantoker)
 <!-- 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhantoker)
 ![alt text](https://github-readme-streak-stats.herokuapp.com/?user=batuhantoker)
