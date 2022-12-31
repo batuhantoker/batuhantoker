@@ -9,9 +9,10 @@ cd human/imagination
 run future
 ```
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhantoker)
+![alt text](https://github-readme-streak-stats.herokuapp.com/?user=batuhantoker)
 <!-- 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhantoker)
-![alt text](https://github-readme-streak-stats.herokuapp.com/?user=batuhantoker)
+
 ![alt text](https://github-profile-trophy.vercel.app/?username=batuhantoker) 
 ![alt text](https://github-readme-stats.vercel.app/api?username=batuhantoker)
 ![alt text](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=batuhantoker&theme=vue)
