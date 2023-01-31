@@ -4,7 +4,7 @@ Hi, I use this website to make most of my work open-source. I'm
 - interested in robotics and artificial intelligence
 - currently learning how to report science for everyone
 - looking forward to collaborate and discuss on haptic interaction and neural networks
-```ruby
+```sh
 cd human/imagination
 run future
 ```
