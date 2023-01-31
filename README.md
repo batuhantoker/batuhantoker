@@ -4,10 +4,7 @@ Hi, I use this website to make most of my work open-source. I'm
 - interested in robotics and artificial intelligence
 - currently learning how to report science for everyone
 - looking forward to collaborate and discuss on haptic interaction and neural networks
-```sh
-cd human/imagination
-run future
-```
+
 
 <!-- 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhantoker)
@@ -22,4 +19,8 @@ run future
 <!---
 tokerbatuhan/tokerbatuhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+```sh
+cd human/imagination
+run future
+```
 --->
