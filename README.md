@@ -1,6 +1,1 @@
-
-```sh
-cd human/imagination
-run future
-```
-
+I build production AI/robotics systems: edge perception, controls integration, MLOps, SCADA, cloud inference, and industrial automation.
